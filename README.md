@@ -1,6 +1,5 @@
 # Few Shot Protypical Anomaly Detection
 
-    This code is was created as a part of the Final-year Project, by Parth Patil, at IIT Bombay.
 
 
 # Abstract
